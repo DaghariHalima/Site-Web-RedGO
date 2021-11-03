@@ -1,0 +1,12 @@
+#canvas-holder{
+    float:left;  
+    width:90%; 
+    height:200px; 
+    }
+    #tableau{
+        float: right;  
+        width:100%; 
+        height:280px;
+        padding-top: 0%;
+      
+    }

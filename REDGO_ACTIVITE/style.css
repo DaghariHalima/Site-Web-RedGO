@@ -1,0 +1,13 @@
+#canvas-holder{
+    float:left;  
+    width:50%; 
+    height:600px; 
+    }
+    #tableau{
+        float:left;  
+        width:40%; 
+        height:280px;
+        padding-top: 0%;
+        margin-right: 50px;
+      
+    }
